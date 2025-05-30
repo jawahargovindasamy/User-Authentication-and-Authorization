@@ -15,7 +15,7 @@ This is a **User Authentication and Authorization API** built using **Node.js, E
 
 ## 📖 API Documentation
 
-The Postman API documentation can be found [here](https://documenter.getpostman.com/view/16422115/UzJNRV6r).
+The Postman API documentation can be found [here](https://documenter.getpostman.com/view/37421127/2sB2qfBzTV).
 
 ## 🌐 API Endpoints
 
