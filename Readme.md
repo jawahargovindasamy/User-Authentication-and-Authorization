@@ -4,15 +4,15 @@ This is a **User Authentication and Authorization API** built using **Node.js, E
 
 ## 🚀 Features
 
-✅ User registration with hashed password
-
-✅ User login with JWT generation
-✅ Secure protected routes using JWT
-✅ Retrieve user information from token
-✅ Proper error handling and validation
-✅ RESTful API design
-✅ MongoDB integration with Mongoose
-✅ Well-structured codebase (MVC pattern)
+✅ User registration with hashed password  
+✅ User login with JWT generation  
+✅ Secure protected routes using JWT  
+✅ Retrieve user information from token  
+✅ Proper error handling and validation 
+✅ Proper error handling and validation  
+✅ RESTful API design  
+✅ MongoDB integration with Mongoose  
+✅ Well-structured codebase (MVC pattern)  
 
 ## 📖 API Documentation
 
@@ -42,7 +42,7 @@ npm install
 ```
 3️⃣**Configure environment variables:**
 Create a .env file and add:
-PORT and MONGODB_URL and JWT_SECRET
+/n PORT and MONGODB_URL and JWT_SECRET
 
 4️⃣**Start the server:**
 ```bash
