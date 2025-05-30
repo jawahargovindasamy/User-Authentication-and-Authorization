@@ -1,8 +1,8 @@
-#🛡️ User Authentication & Authorization API
+# 🛡️ User Authentication & Authorization API
 
 This is a **User Authentication and Authorization API** built using **Node.js, Express.js, MongoDB (Mongoose), JWT,** and following the MVC pattern.
 
-##🚀 Features
+## 🚀 Features
 
 ✅ User registration with hashed password
 ✅ User login with JWT generation
@@ -13,11 +13,11 @@ This is a **User Authentication and Authorization API** built using **Node.js, E
 ✅ MongoDB integration with Mongoose
 ✅ Well-structured codebase (MVC pattern)
 
-##📖 API Documentation
+## 📖 API Documentation
 
 The Postman API documentation can be found [here](https://documenter.getpostman.com/view/16422115/UzJNRV6r).
 
-##🌐 API Endpoints
+## 🌐 API Endpoints
 
 ### POST api/user/register
 
@@ -31,7 +31,7 @@ Login an existing user and receive a JWT token.
 
 Retrieve user data (protected route, requires token).
 
-##⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 
 1️⃣**Clone the repository**
 
@@ -52,7 +52,7 @@ Or:
 node start
 ```
 
-##🧱 Technologies Used
+## 🧱 Technologies Used
 
 Node.js
 Express.js
