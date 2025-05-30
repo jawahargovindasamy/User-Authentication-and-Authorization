@@ -52,9 +52,9 @@ node start
 ```
 
 ## 🧱 Technologies Used
-####Node.js
-####Express.js
-####MongoDB (Mongoose)
-####JWT (jsonwebtoken)
-####bcrypt
-####dotenv
+#### Node.js
+#### Express.js
+#### MongoDB (Mongoose)
+#### JWT (jsonwebtoken)
+#### bcrypt
+#### dotenv
