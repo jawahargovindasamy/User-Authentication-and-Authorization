@@ -5,6 +5,7 @@ This is a **User Authentication and Authorization API** built using **Node.js, E
 ## 🚀 Features
 
 ✅ User registration with hashed password
+
 ✅ User login with JWT generation
 ✅ Secure protected routes using JWT
 ✅ Retrieve user information from token
