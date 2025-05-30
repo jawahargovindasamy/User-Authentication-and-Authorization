@@ -40,8 +40,7 @@ Retrieve user data (protected route, requires token).
 npm install
 ```
 3️⃣**Configure environment variables:**
-Create a .env file and add:
-/n PORT and MONGODB_URL and JWT_SECRET
+Create a .env file and add: PORT and MONGODB_URL and JWT_SECRET
 
 4️⃣**Start the server:**
 ```bash
